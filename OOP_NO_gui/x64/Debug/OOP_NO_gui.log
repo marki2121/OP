@@ -1,0 +1,6 @@
+﻿  OOP_NO_gui.cpp
+C:\Users\amaru\OneDrive\Radna površina\Brat_no_gui\OOP_NO_gui\OOP_NO_gui\Header.h(128,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amaru\OneDrive\Radna površina\Brat_no_gui\OOP_NO_gui\OOP_NO_gui\Header.h(134,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amaru\OneDrive\Radna površina\Brat_no_gui\OOP_NO_gui\OOP_NO_gui\Header.h(142,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amaru\OneDrive\Radna površina\Brat_no_gui\OOP_NO_gui\OOP_NO_gui\Header.h(182,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OOP_NO_gui.vcxproj -> C:\Users\amaru\OneDrive\Radna površina\Brat_no_gui\OOP_NO_gui\x64\Debug\OOP_NO_gui.exe
